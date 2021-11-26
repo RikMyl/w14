@@ -1,3 +1,7 @@
+# This is an assignment
+
+The CI test case fails in purpose because the student suppose to fork the project and implement the issue to get test passed
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
